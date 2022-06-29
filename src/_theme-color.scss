@@ -65,12 +65,12 @@ $surface-switch-thumb: #fff;
 $on-surface: on($surface-z0);
 
 $primary-on-light: #1967d2;
-$primary-on-dark: #8ab4f8;
+$primary-on-dark: #84beea;
 $primary: $primary-on-light;
 $on-primary: on($primary);
 
 $error-on-light: #d93025;
-$error-on-dark: #f28b82;
+$error-on-dark: #f05f7e;
 $error: $error-on-light;
 $on-error: on($error);
 
@@ -108,8 +108,8 @@ $on-panel: on($panel);
 $panel-solid: $panel;
 $on-panel-solid: on($panel-solid);
 
-$titlebar: #424242;
-$titlebar-backdrop: #303030;
+$titlebar: #121212;
+$titlebar-backdrop: #090909;
 $on-titlebar: on($titlebar);
 
 $titlebar-indicator: currentcolor;
